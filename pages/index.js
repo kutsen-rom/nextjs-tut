@@ -22,6 +22,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hello</p>
+        <p>Checking vercel deployment</p>
         <p>
           (This is a sample site website - you'll be building a site like this
           on <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
